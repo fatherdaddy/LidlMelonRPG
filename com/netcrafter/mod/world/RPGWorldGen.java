@@ -58,17 +58,8 @@ public class RPGWorldGen implements IWorldGenerator {
 				int k = z + random.nextInt(16);
 				int j = world.getHeightValue(i, k);
 			}
-		
-		if((biome instanceof BiomeGenVioletFields)) 
-		{
-			for(int a = 0; a < 8; a++)
-			{
-				int i = x + random.nextInt(16);
-				int k = z + random.nextInt(16);
-				int j = world.getHeightValue(i, k);
-				}
 			
-		if((biome == RPGBiomes.biomeVioletFields)) {
+		if((biome == RPGBiomes.biomeMelonLand)) {
 			for(int a = 0; a < 1; a++) {
 				int i = x + random.nextInt(1024);
 				int k = z + random.nextInt(1024);
@@ -76,7 +67,7 @@ public class RPGWorldGen implements IWorldGenerator {
 				new StructurePumpkinDungeon().generate(world, random, i, j, k);
 			}
 				
-}}}}
+}}}
 
 	private void generateSurface(World world, Random random, int x, int z) {
 		//this.addOreSpawn(Nealecraft.oreWhatever, world, random, i=blockXPos, j= blockZPos, maxX, maxZ, maxVeinSize, chancetospawn, minY, maxY); 
