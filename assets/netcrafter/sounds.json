@@ -1,0 +1,11 @@
+{
+          "pumpkinmonster-say": {"category": "master", "sounds": ["pumpkinmonster-say1", "pumpkinmonster-say2"]},
+          "pumpkinmonster-hurt": {"category": "master", "sounds": ["pumpkinmonster-hurt"]},
+          "pumpkinmonster-death": {"category": "master", "sounds": ["pumpkinmonster-death"]},
+          "pumpkinmutant-say": {"category": "master", "sounds": ["pumpkinmutant-say1", "pumpkinmutant-say2", "pumpkinmutant-say3", "pumpkinmutant-say4"]},
+          "pumpkinmutant-hurt": {"category": "master", "sounds": ["pumpkinmutant-hurt1", "pumpkinmutant-hurt2", "pumpkinmutant-hurt3"]},
+          "pumpkinmutant-death": {"category": "master", "sounds": ["pumpkinmutant-death"]},
+          "gayarazhul-say": {"category": "master", "sounds": ["gayarazhul-say1", "gayarazhul-say2", "gayarazhul-say3"]},
+          "gayarazhul-hurt": {"category": "master", "sounds": ["gayarazhul-hurt1", "gayarazhul-hurt2"]},
+          "gayarazhul-death": {"category": "master", "sounds": ["gayarazhul-death"]}
+}
