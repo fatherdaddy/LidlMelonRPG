@@ -1,0 +1,71 @@
+itemGroup.rpgMaterial=Lidl Melon RPG: Materials
+itemGroup.rpgWeapons=Lidl Melon RPG: Weapons
+itemGroup.rpgArmors=Lidl Melon RPG: Armors
+itemGroup.rpgMelonLand=Lidl Melon RPG: Melon Land
+
+entity.PumpkinMonster.name=Kürbis Monster
+entity.PumpkinMutant.name=Kürbis Mutant
+entity.GayArazhul.name=Gay Arazhul
+entity.Griefer.name=Amateur-Griefer
+entity.TrollFace.name=Troll Face
+
+tile.MelonLandPortalActivator.name=Melon Land Activator
+
+tile.MelonShardBlock.name=Melon Shard Block
+tile.Lidl.name=LIDL Block
+tile.Grief.name=Grief Block
+tile.Troll.name=Troll Block
+tile.YTroll.name=Yellow Troll Block
+tile.Lucky.name=Lucky Block
+tile.Roman.name=Roman Block
+tile.FurzPortal.name=Furz Portal Block
+tile.Furz.name=Furz Block
+tile.KKBlock.name=König's Kürbis Block
+tile.UCSBlock.name=Ultimative Chaos Shard Block
+
+item.PumpkinBlood.name=Pumpkin Blood
+item.ActionFigur.name=ArazhulHD-Action Figur
+item.Plastik.name=Lidl Plastik
+item.RomanDeath.name=Best Of-Romans Tode // Platte
+
+item.ChaosNugget.name=Chaos Nugget
+
+item.ObsidianIngot.name=Obsidian Ingot
+item.LidlIngot.name=Lidl Ingot
+item.GayIngot.name=Gay Ingot
+item.GrieferIngot.name=Griefer Ingot
+item.LuckyIngot.name=Lucky Ingot
+item.RomanIngot.name=Roman Ingot
+
+item.HardenedFart.name=Hardened Furz
+item.StolenMelons.name=Stolen Melons
+item.JBCD.name=Justin Bieber CD
+item.BieberSpawnegg.name=Bieber Spawn Egg
+
+item.NGPShard.name=Ninja Grief Power Shard 
+item.MelonShard.name=Melon Shard
+item.FurzShard.name=Furz Shard
+item.ChaosShard.name=Chaos Shard
+item.UCShard.name=Ultimate Chaos Shard
+
+item.NGPKnife.name=Ninja Grief Power Knife
+item.HalfIron.name=Halbiertes Eisen
+
+item.ModBlade.name=Mod Blade
+item.CheaterSword.name=Cheater Sword
+item.GrieferSword.name=Griefer Sword
+item.HomoSword.name=No-Homo Sword
+item.NinjaKatana.name=Ninja Griefer Katana
+item.UltraNinja.name=Das Ultimative Ninja Katana
+item.Revolution.name=Revolution
+item.PreGeneration.name=Pre-Generation
+item.Furzblade.name=Das Ultimative Roman Furz-Blade
+item.Generation.name=Generation
+item.NinjaMelon.name=Ninja Melon
+item.Ultimate.name=Der Ultimative Blade des Modpacks
+item.RevBow.name=Revolution-Bogen
+
+item.GayHelm.name=Gay Arazhul Helmet
+item.GayChest.name=Gay Arazhul Chestplate
+item.GayLegs.name=Gay Arazhul Leggings
+item.GayBoots.name=Gay Arazhul Boots
